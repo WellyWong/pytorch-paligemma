@@ -1,0 +1,32 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyTorch / Hugging Face model checkpoints and embeddings
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+# Datasets / cache
+.cache/
+*.arrow
+
+# VS Code settings
+.vscode/
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environments
+env/
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
